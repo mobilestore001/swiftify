@@ -1117,7 +1117,7 @@ Account Number
 
 <b id="acct">
 
-7070653390
+8985368280
 
 </b>
 
@@ -1300,7 +1300,7 @@ color:#f5b700;
 letter-spacing:.5px;
 ">
 
-7070653390
+8985368280
 
 </div>
 
@@ -1351,7 +1351,7 @@ function copyAccount(){
 navigator
 .clipboard
 .writeText(
-"7070653390"
+"8985368280"
 );
 
 const btn =
@@ -1392,7 +1392,7 @@ function copyVendorAccount(btn){
 navigator
 .clipboard
 .writeText(
-"7070653390"
+"8985368280"
 );
 
 btn.innerText =
